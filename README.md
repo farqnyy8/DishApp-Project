@@ -13,4 +13,4 @@ P.S. I am still implementing this project and adding additional features.
 
 Author: <strong>Faruq Eniola Hammed </strong><br>
 Technology Used: <strong>C++</strong> and Microsoft Visual Studio <br>
-Commencment Date: December 17th, 2019
+Commencment Date: December 2019
