@@ -9,7 +9,7 @@ A user can do the following:
 <li>View all dishes
 </ol>
 
-P.S. I am still implementing this project and adding additional features.
+P.S. I am still working on this project and adding additional features.
 
 Author: <strong>Faruq Eniola Hammed </strong><br>
 Technology Used: <strong>C++</strong> and Microsoft Visual Studio <br>
